@@ -10,7 +10,7 @@ $db = new Medoo([
     'database_name' => "db_mlm",
     'server' => "localhost",
     'username' => "root",
-    'password' => "mysql"
+    'password' => ""
 ]);
 
 
